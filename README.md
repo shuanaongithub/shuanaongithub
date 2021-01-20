@@ -1,7 +1,6 @@
-# Hey, I'm Shuana!
-## I love coding, Mostly in python!
+# Hey, I'm Shuana!, I love coding, Mostly in python!
 
-# Fun Facts about me:
+> Fun Facts about me:
 
 - I am very shy 👉👈
 - I love Music, Especially my favourite artist Juice WRLD(Jarad)
