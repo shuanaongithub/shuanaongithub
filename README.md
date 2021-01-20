@@ -1,4 +1,4 @@
-# Hey, I'm Shuana!, I love coding, Mostly in python!
+# Hey, I'm Shuana!, I love to code!
 
 > Fun Facts about me:
 
