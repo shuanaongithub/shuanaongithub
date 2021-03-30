@@ -1,11 +1,11 @@
 # Hey, I'm Shuana!, I love to code!
 
 > Fun Facts about me:
+> My main coding language is Python
+> The first ever time i tried coding was in 2018
+> I love Jaffa Cakes
 
-- I am very shy 👉👈
-- I love Music, Especially my favourite artist Juice WRLD(Jarad)
-- My favourite song as of now is Juice WRLD - Hide(feat. Seezyn)
-- I own a Discord bot called World! [**Check his respitory**](https://github.com/shuanaongithub/World)
-- I also think you are a big qt!
-
-## Check out my Respitorys!
+<details>
+<summary>More about my GitHub</summary>
+![Shuana's github stats](https://github-readme-stats.vercel.app/api?username=shuanaongithub&theme=vue&show_icons=true)
+</details>
