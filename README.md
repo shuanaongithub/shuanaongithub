@@ -6,6 +6,9 @@
 - I love Jaffa Cakes
 
 <details>
-<summary>More about my GitHub</summary>
-![shuanaongithub's github stats](https://github-readme-stats.vercel.app/api?username=shuanaongithub&theme=vue&show_icons=true)
+
+<summary>My GitHub Stats</summary>
+
+![shuana's github stats](https://github-readme-stats.vercel.app/api?username=shuanaongithub&theme=vue&show_icons=true)
+
 </details>
