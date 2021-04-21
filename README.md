@@ -1,4 +1,4 @@
-# Hey, I'm Shuana!, I love to code!
+# Hey, I'm Jaffa, a cake that loves to code!
 
 > Fun Facts about me:
 - My main coding language is Python
