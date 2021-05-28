@@ -9,6 +9,6 @@
 
 <summary>My GitHub Stats</summary>
 
-![shuana's github stats](https://github-readme-stats.vercel.app/api?username=shuanaongithub&theme=vue&show_icons=true)
+![shuana's github stats](https://github-readme-stats.vercel.app/api?username=jaffathedev&theme=vue&show_icons=true)
 
 </details>
